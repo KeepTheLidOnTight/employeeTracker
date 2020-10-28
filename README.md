@@ -4,8 +4,11 @@ The intention of this application is to allow the user to be able manage their s
 See here:
 <br>
 [GitHub Repository](https://github.com/KeepTheLidOnTight/employeeTracker)
-# Usage Instructions
-Simply create a new note in the text fields. Save the note via button in the upper right of the page, delete with the trashcan logo found next to saved notes.
+
+# Usage Instructions:
+Install dependencies first, then answer each prompt depending on what you'd like to add or remove from the database. For clarity feel free to watch a video demonstrating some of this application's functionality.
+<br>
+ [Usage Demonstration](https://drive.google.com/file/d/1V8qqcSiwxmCEpPV3WBQ-IyAl9Xb_-o7X/view)
 
 # Installation:
 To install dependencies use
