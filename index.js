@@ -440,6 +440,6 @@ async function addEmployee() {
 }
 
 function quit() {
-  console.log("Ciao!");
+  console.log("Thanks!");
   process.exit();
 }
