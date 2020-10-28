@@ -1,4 +1,4 @@
-# express-noteTaker
+# employeeTracker
 The intention of this application is to allow the user to be able manage their system of employees that are stored in a database. They can view current employees, add employees, along with other functions such as: add employee roles, add employee departments, and also remove employees, roles, and departments.
 <br>
 See here:
